@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523510024166",
+    "project_id": "v3ridia",
+    "storage_bucket": "v3ridia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523510024166:android:671b0ef6b275a3fdee3827",
+        "android_client_info": {
+          "package_name": "com.example.v3ridia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR2NfYixALChrndoak_GiqWrxljcqNQ1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
