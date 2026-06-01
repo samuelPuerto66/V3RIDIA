@@ -1,3 +1,15 @@
-.env
-serviceAccountKey.json
+# Entornos virtuales
 venv/
+.venv/
+env/
+
+# Caché
+__pycache__/
+*.pyc
+
+# Base de datos local
+db.sqlite3
+
+# Credenciales (IMPORTANTE: NO SUBAS ESTO)
+serviceAccountKey.json
+.env
